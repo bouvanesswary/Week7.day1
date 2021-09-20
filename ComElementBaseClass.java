@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ComElementBaseClass {
 	
-	public static ChromeDriver driver;
+	public ChromeDriver driver;
 	public Properties prop;
 	
 	
